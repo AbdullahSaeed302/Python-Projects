@@ -1,4 +1,6 @@
-# Python-Projects
+# Python Projects
+
+## Normal:
 
 **Project 1 - Rock, Paper & Scissor Game**
 
@@ -13,3 +15,7 @@
 **Project 6 - Spell Checker App**
 
 **Mega Project 7 - Jarvis AI**
+
+## Web Scraping:
+
+**Project 1 - Fortune Companies Data**
