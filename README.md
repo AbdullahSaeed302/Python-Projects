@@ -18,4 +18,4 @@
 
 ## Web Scraping:
 
-**Project 1 - Fortune Companies Data**
+**WS Project 1 - Fortune Companies Data**
